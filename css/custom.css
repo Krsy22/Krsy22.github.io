@@ -659,7 +659,7 @@
 }
 
 /* 个人信息卡片背景图 */
-[data-theme="light"] #aside-content > .card-widget.card-info {
+/* [data-theme="light"] #aside-content > .card-widget.card-info {
   background-image: url(https://picturebed-e8u.pages.dev/snowflower.webp);
   background-repeat: no-repeat;
   background-attachment: inherit;
@@ -670,7 +670,7 @@
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
-}
+} */
 
 /* 信息卡片彩带 */
 .author_top:hover {
